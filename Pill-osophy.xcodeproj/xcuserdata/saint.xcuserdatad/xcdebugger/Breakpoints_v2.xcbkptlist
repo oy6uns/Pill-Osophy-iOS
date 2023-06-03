@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BC873D20-26E0-4860-87FD-9B55A87FB129"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ADD4134-B4CE-49C2-9817-94A7F45E9684"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pill-osophy/TakePic/PicVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "setPress()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "448FC46C-CAC1-44B3-8439-16FA1E8B766A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pill-osophy/TakePic/PicVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "setPress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "448FC46C-CAC1-44B3-8439-16FA1E8B766A - 3cc844c5e4f8fb8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "448FC46C-CAC1-44B3-8439-16FA1E8B766A - 3cc844c5e4f8fb8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB6DD422-0B01-4BCE-A52C-EB9BDA1E83A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pill-osophy/TakePic/PicVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "setPress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB6DD422-0B01-4BCE-A52C-EB9BDA1E83A3 - 3cc844c5e4f8fbee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "CB6DD422-0B01-4BCE-A52C-EB9BDA1E83A3 - 3cc844c5e4f8fbee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DA7AE9F-ABD4-4F89-9953-12B8B8F257FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pill-osophy/TakePic/PicVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "setPress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DA7AE9F-ABD4-4F89-9953-12B8B8F257FA - 3cc844c5e4f8fa2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "9DA7AE9F-ABD4-4F89-9953-12B8B8F257FA - 3cc844c5e4f8fa2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87BBFF4B-889A-4CCE-AFDB-E265C558A835"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pill-osophy/TakePic/PicVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "setPress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87BBFF4B-889A-4CCE-AFDB-E265C558A835 - 3cc844c5e4f8fab3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "87BBFF4B-889A-4CCE-AFDB-E265C558A835 - 8da447e4e16c8445"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.PHAuthorizationStatus) -&gt; () in closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "87BBFF4B-889A-4CCE-AFDB-E265C558A835 - 3cc844c5e4f8f9d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC5E5429-D5E4-4B61-9A6D-8EEE0BF72CAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pill-osophy/TakePic/PicVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "setPress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC5E5429-D5E4-4B61-9A6D-8EEE0BF72CAD - 3cc844c5e4f8f9d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "BC5E5429-D5E4-4B61-9A6D-8EEE0BF72CAD - 3cc844c5e4f8f9d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "977248EA-FA08-46C2-B7D4-C4B24822FD20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pill-osophy/TakePic/PicVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "setPress()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "977248EA-FA08-46C2-B7D4-C4B24822FD20 - 3cc844c5e4f8fba8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "977248EA-FA08-46C2-B7D4-C4B24822FD20 - 3cc844c5e4f8fba8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in Pill_osophy.PicVC.setPress() -&gt; ()"
+                  moduleName = "Pill-osophy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saint/Documents/iOS/Pill-osophy/Pill-osophy/TakePic/PicVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
